@@ -12,8 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-
-//= require json2
+//
 //= require handlebars
 //= require underscore
 //= require backbone
@@ -22,7 +21,7 @@
 //= require routes
 //= require_tree ./templates
 //= require_tree ./models
-//= require_tree ./controllers
+//= require_tree ./collections
 //= require_tree ./views
 //
 //= require app
