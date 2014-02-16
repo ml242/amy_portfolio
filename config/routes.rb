@@ -1,5 +1,8 @@
 Amygironda::Application.routes.draw do
 
+  resources :welcomes
+
+
   root to: 'welcome#index'
 
 end
